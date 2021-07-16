@@ -4,7 +4,7 @@
 
 <p>1) git clone https://github.com/tehnplk/smart_device_api</p>
 
-<p>2)cd smart_device_api && npm install</p>
+<p>2)cd smart_device_api_pg && npm install</p>
 
 <p>3)Edit con_db.js</p>
 
