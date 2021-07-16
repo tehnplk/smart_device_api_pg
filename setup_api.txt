@@ -1,7 +1,6 @@
 0) Install nodejs 
 
 1) git clone https://github.com/tehnplk/smart_device_api
-pass = Qazwsxedcr112233.
 
 2)cd smart_device_api && npm install
 
